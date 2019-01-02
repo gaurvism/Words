@@ -14,4 +14,4 @@ Happy Learning =)
 
 # Neoteric
 - **Meaning**: Modern, New, Recent
-- **Example**: It is is all too neoteric and light for my humour.
+- **Example**: It is all too neoteric and light for my humour.
