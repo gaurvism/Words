@@ -9,9 +9,9 @@ You can also [Style Me](https://guides.github.com/features/mastering-markdown/)!
 Happy Learning =) 
 
 # Faux pas
-- Meaning: an embarrassing or tactless act or remark in a social situation.
-- Example: I made some remark about his wife's family, and then realized I'd made a serious fauxpas.
+- **Meaning**: an embarrassing or tactless act or remark in a social situation.
+- **Example**: I made some remark about his wife's family, and then realized I'd made a serious fauxpas.
 
 # Neoteric
-- Meaning: Modern, New, Recent
-- Example:It is is all too neoteric and light for my humour.
+- **Meaning**: Modern, New, Recent
+- **Example**: It is is all too neoteric and light for my humour.
