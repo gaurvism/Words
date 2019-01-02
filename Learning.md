@@ -2,7 +2,7 @@
 
 Join us on the path to learn a new word everyday.
 
-Just go through the "Words" File and learn fascinated words.
+Just go through and learn fascinating words.
 
 You can also [Style Me](https://guides.github.com/features/mastering-markdown/)!
 
