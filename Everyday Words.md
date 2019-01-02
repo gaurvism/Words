@@ -6,4 +6,10 @@ Just go through the "Words" File and learn fascinated words.
 
 Happy Learning =) 
 
-test commit
+# Faux pas
+- Meaning: an embarrassing or tactless act or remark in a social situation.
+- Example: I made some remark about his wife's family, and then realized I'd made a serious fauxpas.
+
+# Neoteric
+- Meaning: Modern, New, Recent
+- Example:It is is all too neoteric and light for my humour.
