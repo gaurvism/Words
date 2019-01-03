@@ -21,5 +21,5 @@ Happy Learning =)
 - **Example**: These elements point to syncretic architectural practices.
 
 # Misnomer
-- **Meaning**: a wrong name or inappropriate designation
+- **Meaning**: usage of a wrong or inappropriate name
 - **Example**: The name "Greenland" is a misnomer, since much of the island is covered by a massive ice sheet.
