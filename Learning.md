@@ -15,3 +15,11 @@ Happy Learning =)
 # Neoteric
 - **Meaning**: Modern, New, Recent
 - **Example**: It is all too neoteric and light for my humour.
+
+# Syncretic
+- **Meaning**: combining different religions, cultures, or ideas
+- **Example**: These elements point to syncretic architectural practices.
+
+# Misnomer
+- **Meaning**: a wrong name or inappropriate designation
+- **Example**: The name "Greenland" is a misnomer, since much of the island is covered by a massive ice sheet.
