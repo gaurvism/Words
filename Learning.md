@@ -31,3 +31,11 @@ Happy Learning =)
 # Guilty Pleasure
 - **Meaning**: Something pleasurable that induces a usually minor feeling of guilt.
 - **Example**: Because I have quite a sweet tooth, my biggest guilty pleasure would have to be toffee chocolates but do I have to confess that I’m partial to a kebab from Turkish Delight in Manchester.
+
+# Abandon
+- **Meaning**: To leave somebody, thing or place, especially somebody you are responsible for.
+- **Example**: People often simply abandon their pets when they go abroad.
+
+# Withdraw
+- **Meaning**: To move back or away from a place or situation; to make somebody/something do this.
+- **Example**: Workers have threatened to withdraw their labour.
