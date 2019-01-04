@@ -23,3 +23,11 @@ Happy Learning =)
 # Misnomer
 - **Meaning**: usage of a wrong or inappropriate name
 - **Example**: The name "Greenland" is a misnomer, since much of the island is covered by a massive ice sheet.
+
+# Tardiness
+- **Meaning**: It is the quality of being late, behind time or not on time.
+- **Example**: Excessive tardiness can also result in you getting fired.
+
+# Guilty Pleasure
+- **Meaning**: Something pleasurable that induces a usually minor feeling of guilt.
+- **Example**: Because I have quite a sweet tooth, my biggest guilty pleasure would have to be toffee chocolates but do I have to confess that I’m partial to a kebab from Turkish Delight in Manchester.
