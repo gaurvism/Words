@@ -39,3 +39,11 @@ Happy Learning =)
 # Withdraw
 - **Meaning**: To move back or away from a place or situation; to make somebody/something do this.
 - **Example**: Workers have threatened to withdraw their labour.
+
+# Demarcate
+- **Meaning**: To show the limits of something.
+- **Example**: Parking spaces are demarcated by white lines.
+
+# Audacious
+- **Meaning**: Showing a willingness to take risks.
+- **Example**: This thrilling new series charts audacious prison escape attempts.
