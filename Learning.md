@@ -9,7 +9,7 @@ You can also [Style Me](https://guides.github.com/features/mastering-markdown/)!
 Happy Learning =) 
 
 # Faux pas
-- **Meaning**: an embarrassing or tactless act or remark in a social situation.
+- **Meaning**: An embarrassing or tactless act or remark in a social situation.
 - **Example**: I made some remark about his wife's family, and then realized I'd made a serious fauxpas.
 
 # Neoteric
@@ -17,11 +17,11 @@ Happy Learning =)
 - **Example**: It is all too neoteric and light for my humour.
 
 # Syncretic
-- **Meaning**: combining different religions, cultures, or ideas
+- **Meaning**: Combining different religions, cultures, or ideas
 - **Example**: These elements point to syncretic architectural practices.
 
 # Misnomer
-- **Meaning**: usage of a wrong or inappropriate name
+- **Meaning**: Usage of a wrong or inappropriate name
 - **Example**: The name "Greenland" is a misnomer, since much of the island is covered by a massive ice sheet.
 
 # Tardiness
