@@ -47,3 +47,11 @@ Happy Learning =)
 # Audacious
 - **Meaning**: Showing a willingness to take risks.
 - **Example**: This thrilling new series charts audacious prison escape attempts.
+
+# Underrated
+- **Meaning**: To rate or evaluate too low; underestimate.
+- **Example**: He is one of Hollywood’s most underrated actors (= He is much better than people think).
+
+# Overrated
+- **Meaning**: Not as good or important as some people believe.
+- **Example**: In my opinion, she's a hugely overrated singer.
