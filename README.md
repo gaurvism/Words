@@ -55,3 +55,13 @@ Happy Learning =)
 # Overrated
 - **Meaning**: Not as good or important as some people believe.
 - **Example**: In my opinion, she's a hugely overrated singer.
+
+# Rhapsody
+- **Meaning**: 
+  - A piece of music that has no formal structure and expresses powerful feelings.
+  - A speech or piece of writing that contains powerful feelings and enthusiasm.
+- **Example**: The mayor launched into a long rhapsody about his plans for the city.
+
+# Discreet
+- **Meaning**: Not as good or important as some people believe.
+- **Example**: In my opinion, she's a hugely overrated singer.
