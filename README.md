@@ -63,5 +63,5 @@ Happy Learning =)
 - **Example**: The mayor launched into a long rhapsody about his plans for the city.
 
 # Discreet
-- **Meaning**: Not as good or important as some people believe.
-- **Example**: In my opinion, she's a hugely overrated singer.
+- **Meaning**: Careful not to cause embarrassment or attract too much attention, especially by keeping something secret.
+- **Example**: The family made discreet enquiries about his background.
