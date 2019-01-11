@@ -73,3 +73,15 @@ Happy Learning =)
 # Venal
 - **Meaning**: Open to corrupt influence and especially bribery.
 - **Example**: They are accused of being involved in venal practices.
+
+# Shoddy
+- **Meaning**: Badly and carelessly made.
+- **Example**: We're not paying good money for shoddy goods.
+
+# Acquit
+- **Meaning**: Free (someone) from a criminal charge by a verdict of not guilty.
+- **Example**: She was acquitted of all the charges against her.
+
+# Convict
+- **Meaning**: Declare (someone) to be guilty of a criminal offence by the verdict of a jury or the decision of a judge in a court of law.
+- **Example**: She was convicted of murdering her drunken and allegedly violent husband.
