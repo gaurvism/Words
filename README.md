@@ -65,3 +65,11 @@ Happy Learning =)
 # Discreet
 - **Meaning**: Careful not to cause embarrassment or attract too much attention, especially by keeping something secret.
 - **Example**: The family made discreet enquiries about his background.
+
+# Miscreant
+- **Meaning**: Someone who behaves badly or does not obey rules.
+- **Example**: He supports tough penalties against corporate miscreants.
+
+# Venal
+- **Meaning**: Open to corrupt influence and especially bribery.
+- **Example**: They are accused of being involved in venal practices.
