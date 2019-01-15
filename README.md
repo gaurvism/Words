@@ -85,3 +85,11 @@ Happy Learning =)
 # Convict
 - **Meaning**: Declare (someone) to be guilty of a criminal offence by the verdict of a jury or the decision of a judge in a court of law.
 - **Example**: She was convicted of murdering her drunken and allegedly violent husband.
+
+# Mea Culpa
+- **Meaning**: An acknowledgment of your error or guilt.
+- **Example**: A newspaper might issue a mea culpa for printing inaccurate information.
+
+# Intimidate
+- **Meaning**: To make timid or frightened; scare.
+- **Example**: The terrain is massive, confusing, and *intimidating*, and almost everyone skis it with a local guide.
