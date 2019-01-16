@@ -93,3 +93,11 @@ Happy Learning =)
 # Intimidate
 - **Meaning**: To make timid or frightened; scare.
 - **Example**: The terrain is massive, confusing, and *intimidating*, and almost everyone skis it with a local guide.
+
+# Apparent
+- **Meaning**: Clearly visible or understood; obvious.
+- **Example**: It should be *apparent* to anyone that the letter was written by a child.
+
+# Gourmet
+- **Meaning**: A person who knows a lot about food and cooking, and who enjoys eating high-quality food.
+- **Example**: Food critics have to be *gourmets* in order to write about food in an informed way.
