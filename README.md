@@ -101,3 +101,11 @@ Happy Learning =)
 # Gourmet
 - **Meaning**: A person who knows a lot about food and cooking, and who enjoys eating high-quality food.
 - **Example**: Food critics have to be *gourmets* in order to write about food in an informed way.
+
+# Triumph
+- **Meaning**: It is a great success or achievement, often one that has been gained with a lot of skill or effort.
+- **Example**: The eradication of smallpox by vaccination was one of medicine's greatest *triumphs*.
+
+# Prevail
+- **Meaning**: Prove more powerful or superior.
+- **Example**: It is hard for logic to *prevail* over emotion.
