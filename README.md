@@ -109,3 +109,11 @@ Happy Learning =)
 # Prevail
 - **Meaning**: Prove more powerful or superior.
 - **Example**: It is hard for logic to *prevail* over emotion.
+
+# Doppelgänger
+- **Meaning**: Someone who looks spookily like you, but isn't a twin.
+- **Example**: Some lookalikes are hired to entertain at clubs and parties: they learn to sing like their doppelgänger so the crowd think they are getting the real thing.
+
+# Irrational
+- **Meaning**: Not based on logical reasons or clear thinking.
+- **Example**: It's totally irrational, but I'm frightened of mice.
