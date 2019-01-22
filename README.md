@@ -112,8 +112,16 @@ Happy Learning =)
 
 # Doppelgänger
 - **Meaning**: Someone who looks spookily like you, but isn't a twin.
-- **Example**: Some lookalikes are hired to entertain at clubs and parties: they learn to sing like their doppelgänger so the crowd think they are getting the real thing.
+- **Example**: Some lookalikes are hired to entertain at clubs and parties: they learn to sing like their *doppelgänger* so the crowd think they are getting the real thing.
 
 # Irrational
 - **Meaning**: Not based on logical reasons or clear thinking.
-- **Example**: It's totally irrational, but I'm frightened of mice.
+- **Example**: It's totally *irrational*, but I'm frightened of mice.
+
+# Irrelevant
+- **Meaning**: Not related to what is being discussed or considered and therefore not important.
+- **Example**: These documents are largely *irrelevant* to the present investigation.
+
+# Connoisseur
+- **Meaning**: Someone who knows a lot about a particular thing and enjoys it a lot.
+- **Example**: Sarah tells me you're something of an art *connoisseur*.
