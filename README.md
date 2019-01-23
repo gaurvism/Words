@@ -125,3 +125,11 @@ Happy Learning =)
 # Connoisseur
 - **Meaning**: Someone who knows a lot about a particular thing and enjoys it a lot.
 - **Example**: Sarah tells me you're something of an art *connoisseur*.
+
+# Behemoth
+- **Meaning**: Something of monstrous size, power, or appearance.
+- **Example**: The newest SUV is a gas-guzzling *behemoth* that doesn't even fit in a standard parking space.
+
+# Penultimate
+- **Meaning**: Second from the last.
+- **Example**: It's the *penultimate* episode of the series tonight.
