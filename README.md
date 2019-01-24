@@ -133,3 +133,11 @@ Happy Learning =)
 # Penultimate
 - **Meaning**: Second from the last.
 - **Example**: It's the *penultimate* episode of the series tonight.
+
+# Woe
+- **Meaning**: Grievous distress, affliction, or trouble.
+- **Example**: He did not tell his relatives and friends about his *woes*.
+
+# Affliction
+- **Meaning**: An affliction is something which causes physical or mental suffering.
+- **Example**: Malnutrition is one of the common *afflictions* of the poor.
