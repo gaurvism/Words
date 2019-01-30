@@ -141,3 +141,15 @@ Happy Learning =)
 # Affliction
 - **Meaning**: An affliction is something which causes physical or mental suffering.
 - **Example**: Malnutrition is one of the common *afflictions* of the poor.
+
+# Abstain
+- **Meaning**: Restrain oneself from doing or enjoying something.
+- **Example**: A high percentage of women said they had *abstained* from alcohol during pregnancy.
+
+# Teetotaller
+- **Meaning**: A person who never drinks alcohol.
+- **Example**: His parents are *teetotallers* so he didn't get the whisky from his home.
+
+# Modest
+- **Meaning**: Not large in size or amount, or not expensive.
+- **Example**: They live in a fairly *modest* house, considering their wealth.
