@@ -161,5 +161,5 @@ Happy Learning =)
 # Probe
 - **Meaning**: 
   - A thorough investigation into a crime or other matter.
-  - To try to discover information that other people do not want you to know, by asking questions carefully and not directly
-- **Example**: Detectives questioned him for hours, probing for any inconsistencies in his story.
+  - To try to discover information that other people do not want you to know, by asking questions carefully and not directly.
+- **Example**: Detectives questioned him for hours, *probing* for any inconsistencies in his story.
