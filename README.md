@@ -8,7 +8,7 @@ You can also [Style Me](https://guides.github.com/features/mastering-markdown/)!
 
 Happy Learning =) 
 
-# January
+> January
 
 # Faux pas
 - **Meaning**: An embarrassing or tactless act or remark in a social situation.
