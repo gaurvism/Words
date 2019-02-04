@@ -8,6 +8,8 @@ You can also [Style Me](https://guides.github.com/features/mastering-markdown/)!
 
 Happy Learning =) 
 
+# January
+
 # Faux pas
 - **Meaning**: An embarrassing or tactless act or remark in a social situation.
 - **Example**: I made some remark about his wife's family, and then realized I'd made a serious *fauxpas*.
@@ -163,3 +165,9 @@ Happy Learning =)
   - A thorough investigation into a crime or other matter.
   - To try to discover information that other people do not want you to know, by asking questions carefully and not directly.
 - **Example**: Detectives questioned him for hours, *probing* for any inconsistencies in his story.
+
+# February
+
+# Segregate
+- **Meaning**: To keep one thing separate from another.
+- **Example**: The psychiatric section is segregated from the rest of the prison.
