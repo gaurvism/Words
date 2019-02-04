@@ -4,9 +4,9 @@ Join us on the path to learn a new word everyday.
 
 Just go through and learn fascinating words.
 
-You can also [Style Me](https://guides.github.com/features/mastering-markdown/)!
+You can also [Style Me](https://guides.github.com/features/mastering-markdown/)! :mag_right:
 
-Happy Learning =) 
+Happy Learning :blush:
 
 ## For the month of January :loudspeaker:
 
