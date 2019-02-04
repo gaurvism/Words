@@ -8,7 +8,7 @@ You can also [Style Me](https://guides.github.com/features/mastering-markdown/)!
 
 Happy Learning =) 
 
-> January
+## For the month of January
 
 # Faux pas
 - **Meaning**: An embarrassing or tactless act or remark in a social situation.
@@ -166,7 +166,7 @@ Happy Learning =)
   - To try to discover information that other people do not want you to know, by asking questions carefully and not directly.
 - **Example**: Detectives questioned him for hours, *probing* for any inconsistencies in his story.
 
-# February
+## For the month of February
 
 # Segregate
 - **Meaning**: To keep one thing separate from another.
