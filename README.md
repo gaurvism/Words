@@ -170,4 +170,8 @@ Happy Learning :blush:
 
 # Segregate
 - **Meaning**: To keep one thing separate from another.
-- **Example**: The psychiatric section is segregated from the rest of the prison.
+- **Example**: The psychiatric section is *segregated* from the rest of the prison.
+
+# Extradition  
+- **Meaning**: The return of someone accused of a crime to the country where the crime was committed.
+- **Example**: He will be *extradited* to Arizona from Florida.
