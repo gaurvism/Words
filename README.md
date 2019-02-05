@@ -175,3 +175,7 @@ Happy Learning :blush:
 # Extradition  
 - **Meaning**: The return of someone accused of a crime to the country where the crime was committed.
 - **Example**: He will be *extradited* to Arizona from Florida.
+
+# Reaffirm  
+- **Meaning**: State again strongly.
+- **Example**: The government yesterday *reaffirmed* its commitment to the current peace process.
