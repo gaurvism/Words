@@ -179,3 +179,11 @@ Happy Learning :blush:
 # Reaffirm  
 - **Meaning**: State again strongly.
 - **Example**: The government yesterday *reaffirmed* its commitment to the current peace process.
+
+# Tumultuous  
+- **Meaning**: Event or period of time involves many exciting and confusing events or feelings.
+- **Example**: After the *tumultuous* events of 1990, Europe was completely transformed.
+
+# Egregious  
+- **Meaning**: Extremely bad in a way that is very noticeable.
+- **Example**: If you make an *egregious* error during a championship soccer match, your coach might bench you for the rest of the game.
