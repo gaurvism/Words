@@ -196,7 +196,7 @@ Happy Learning :blush:
 - **Meaning**: 
   - Be received or understood.
   - Produce or be filled with a deep, full, reverberating sound.
-- **Example**: ‘the sound of the siren *resonated* across the harbour
+- **Example**: the sound of the siren *resonated* across the harbour.
 
 # Gaffe  
 - **Meaning**: An unintentional act or remark causing embarrassment to its originator; a blunder.
