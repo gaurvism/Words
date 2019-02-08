@@ -187,3 +187,17 @@ Happy Learning :blush:
 # Egregious  
 - **Meaning**: Extremely bad in a way that is very noticeable.
 - **Example**: If you make an *egregious* error during a championship soccer match, your coach might bench you for the rest of the game.
+
+# Hymn  
+- **Meaning**: A religious song or poem of praise to God.
+- **Example**: In jolly *hymns* they praise the god of wine.
+
+# Resonate  
+- **Meaning**: 
+  - Be received or understood.
+  - Produce or be filled with a deep, full, reverberating sound.
+- **Example**: ‘the sound of the siren *resonated* across the harbour
+
+# Gaffe  
+- **Meaning**: An unintentional act or remark causing embarrassment to its originator; a blunder.
+- **Example**: If you run into a friend out with her grey-haired father, and you blurt out, "Oh, hi, you must be Tara's grandfather!" then you've made a *gaffe*.
