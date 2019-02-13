@@ -201,3 +201,15 @@ Happy Learning :blush:
 # Gaffe  
 - **Meaning**: An unintentional act or remark causing embarrassment to its originator; a blunder.
 - **Example**: If you run into a friend out with her grey-haired father, and you blurt out, "Oh, hi, you must be Tara's grandfather!" then you've made a *gaffe*.
+
+# Cliché  
+- **Meaning**: If you've heard an expression a million times, chances are it's a cliche.
+- **Example**: It's a *cliche* but true that pubs are the lifeblood of many communities.
+
+# Niche  
+- **Meaning**: A job or position that is very suitable for someone, especially one that they like.
+- **Example**: He found his *niche* in the academic world.
+
+# Horrendous
+- **Meaning**: Extremely unpleasant or bad.
+- **Example**: Conditions in the refugee camps were *horrendous*.
