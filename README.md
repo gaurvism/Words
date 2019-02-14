@@ -213,3 +213,15 @@ Happy Learning :blush:
 # Horrendous
 - **Meaning**: Extremely unpleasant or bad.
 - **Example**: Conditions in the refugee camps were *horrendous*.
+
+# Adjourn 
+- **Meaning**: Break off (a meeting, legal case, or game) with the intention of resuming it later.
+- **Example**: Court is *adjourned* until 10 a.m. tomorrow.
+
+# Imminent
+- **Meaning**: Likely to occur at any moment.
+- **Example**: For a man in *imminent* danger of losing his job, he appeared quite unruffled.
+
+# Intriguing
+- **Meaning**: Arousing one's curiosity or interest; fascinating.
+- **Example**: This *intriguing* book is both thoughtful and informative.
