@@ -225,3 +225,11 @@ Happy Learning :blush:
 # Intriguing
 - **Meaning**: Arousing one's curiosity or interest; fascinating.
 - **Example**: This *intriguing* book is both thoughtful and informative.
+
+# Inevitably
+- **Meaning**: Certain to happen and unable to be avoided or prevented.
+- **Example**: Technological changes will *inevitably* lead to unemployment.
+
+# Ruckus
+- **Meaning**: A noisy situation or argument.
+- **Example**: The losers are sure to raise a *ruckus*.
