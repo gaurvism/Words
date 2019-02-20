@@ -233,3 +233,7 @@ Happy Learning :blush:
 # Ruckus
 - **Meaning**: A noisy situation or argument.
 - **Example**: The losers are sure to raise a *ruckus*.
+
+# Monosyllable
+- **Meaning**: A word consisting of only one syllable.
+- **Example**: He answered all their questions with *monosyllables* like “yes” and “no.”
