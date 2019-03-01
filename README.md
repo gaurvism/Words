@@ -237,3 +237,9 @@ Happy Learning :blush:
 # Monosyllable
 - **Meaning**: A word consisting of only one syllable.
 - **Example**: He answered all their questions with *monosyllables* like “yes” and “no.”
+
+## For the month of March :loudspeaker:
+
+# Ecstasy
+- **Meaning**: An overwhelming feeling of great happiness or joyful excitement.
+- **Example**: they went into *ecstasies* over the view.
