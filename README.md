@@ -240,6 +240,6 @@ Happy Learning :blush:
 
 ## For the month of March :loudspeaker:
 
-# Ecstasy
+# Ecstasy (/ˈɛkstəsi/)
 - **Meaning**: An overwhelming feeling of great happiness or joyful excitement.
 - **Example**: they went into *ecstasies* over the view.
