@@ -244,3 +244,7 @@ Happy Learning :blush:
 - **Pronunciation**: /ˈɛkstəsi/
 - **Meaning**: An overwhelming feeling of great happiness or joyful excitement.
 - **Example**: they went into *ecstasies* over the view.
+
+# Collude
+- **Meaning**: To act together secretly or illegally in order to deceive or cheat someone.
+- **Example**: It was suspected that the police had colluded with the witnesses.
