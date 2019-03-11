@@ -247,4 +247,12 @@ Happy Learning :blush:
 
 # Collude
 - **Meaning**: To act together secretly or illegally in order to deceive or cheat someone.
-- **Example**: It was suspected that the police had colluded with the witnesses.
+- **Example**: It was suspected that the police had *colluded* with the witnesses.
+
+# Sport
+- **Meaning**: If you say that someone is a good sport, you mean that they cope with a difficult situation or teasing in a cheerful way.
+- **Example**: He was accused of having no sense of humor, of not being a good *sport*.
+
+# Magnate
+- **Meaning**: Person who is very rich and successful in business or industry.
+- **Example**: a real estate/media *magnate*.
