@@ -256,3 +256,7 @@ Happy Learning :blush:
 # Magnate
 - **Meaning**: Person who is very rich and successful in business or industry.
 - **Example**: a real estate/media *magnate*.
+
+# Repercussion
+- **Meaning**: The effect that an action, event, or decision has on something, especially a bad effect.
+- **Example**: Any decrease in tourism could have serious *repercussions* for the local economy.
