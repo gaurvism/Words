@@ -260,3 +260,7 @@ Happy Learning :blush:
 # Repercussion
 - **Meaning**: The effect that an action, event, or decision has on something, especially a bad effect.
 - **Example**: Any decrease in tourism could have serious *repercussions* for the local economy.
+
+# Stranded
+- **Meaning**: Left helpless.
+- **Example**: He left me *stranded* in town with no car and no money for a bus.
