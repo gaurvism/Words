@@ -264,3 +264,8 @@ Happy Learning :blush:
 # Stranded
 - **Meaning**: Left helpless.
 - **Example**: He left me *stranded* in town with no car and no money for a bus.
+
+# Content
+- **Use**: Adjective
+- **Meaning**: In a state of peaceful happiness.
+- **Example**: He seemed more content, less bitter
