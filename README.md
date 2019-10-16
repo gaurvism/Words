@@ -269,3 +269,8 @@ Happy Learning :blush:
 - **Use**: Adjective
 - **Meaning**: In a state of peaceful happiness.
 - **Example**: He seemed more content, less bitter
+
+# Content
+- **Use**: Verb
+- **Meaning**: Satisfy (someone).
+- **Example**: Nothing would content her apart from going off to Barcelona
