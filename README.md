@@ -269,3 +269,8 @@ Happy Learning :blush:
 - **Use**: Adjective
 - **Meaning**: In a state of peaceful happiness.
 - **Example**: He seemed more content, less bitter
+
+# Present
+- **Use**: Adjective
+- **Meaning**: In a particular place.
+- **Example**: A doctor must be present at the ringside
