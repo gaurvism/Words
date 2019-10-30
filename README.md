@@ -50,6 +50,8 @@ Happy Learning :blush:
 - **Meaning**: Showing a willingness to take risks.
 - **Example**: This thrilling new series charts *audacious* prison escape attempts.
 
+## For the month of February :loudspeaker:
+
 # Underrated
 - **Meaning**: To rate or evaluate too low; underestimate.
 - **Example**: He is one of Hollywood’s most *underrated* actors (= He is much better than people think).
@@ -92,6 +94,8 @@ Happy Learning :blush:
 - **Meaning**: An acknowledgment of your error or guilt.
 - **Example**: A newspaper might issue a *mea culpa* for printing inaccurate information.
 
+## For the month of March :loudspeaker:
+
 # Intimidate
 - **Meaning**: To make timid or frightened; scare.
 - **Example**: The terrain is massive, confusing, and *intimidating*, and almost everyone skis it with a local guide.
@@ -132,6 +136,8 @@ Happy Learning :blush:
 - **Meaning**: Something of monstrous size, power, or appearance.
 - **Example**: The newest SUV is a gas-guzzling *behemoth* that doesn't even fit in a standard parking space.
 
+## For the month of April :loudspeaker:
+
 # Penultimate
 - **Meaning**: Second from the last.
 - **Example**: It's the *penultimate* episode of the series tonight.
@@ -166,8 +172,6 @@ Happy Learning :blush:
   - To try to discover information that other people do not want you to know, by asking questions carefully and not directly.
 - **Example**: Detectives questioned him for hours, *probing* for any inconsistencies in his story.
 
-## For the month of February :loudspeaker:
-
 # Segregate
 - **Meaning**: To keep one thing separate from another.
 - **Example**: The psychiatric section is *segregated* from the rest of the prison.
@@ -175,6 +179,8 @@ Happy Learning :blush:
 # Extradition  
 - **Meaning**: The return of someone accused of a crime to the country where the crime was committed.
 - **Example**: He will be *extradited* to Arizona from Florida.
+
+## For the month of May :loudspeaker:
 
 # Reaffirm  
 - **Meaning**: State again strongly.
@@ -218,6 +224,8 @@ Happy Learning :blush:
 - **Meaning**: Break off (a meeting, legal case, or game) with the intention of resuming it later.
 - **Example**: Court is *adjourned* until 10 a.m. tomorrow.
 
+## For the month of June :loudspeaker:
+
 # Imminent
 - **Meaning**: Likely to occur at any moment.
 - **Example**: For a man in *imminent* danger of losing his job, he appeared quite unruffled.
@@ -237,8 +245,6 @@ Happy Learning :blush:
 # Monosyllable
 - **Meaning**: A word consisting of only one syllable.
 - **Example**: He answered all their questions with *monosyllables* like “yes” and “no.”
-
-## For the month of March :loudspeaker:
 
 # Ecstasy
 - **Pronunciation**: /ˈɛkstəsi/
@@ -260,6 +266,8 @@ Happy Learning :blush:
 # Repercussion
 - **Meaning**: The effect that an action, event, or decision has on something, especially a bad effect.
 - **Example**: Any decrease in tourism could have serious *repercussions* for the local economy.
+
+## For the month of July :loudspeaker:
 
 # Stranded
 - **Meaning**: Left helpless.
