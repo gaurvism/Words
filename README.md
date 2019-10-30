@@ -272,3 +272,7 @@ Happy Learning :blush:
 # Stranded
 - **Meaning**: Left helpless.
 - **Example**: He left me *stranded* in town with no car and no money for a bus.
+
+# Cavalcade
+- **Meaning**: a line of people, walking, on horses, or in vehicles, who are moving slowly as part of a ceremony.
+- **Example**: a *cavalcade* of antique cars.
