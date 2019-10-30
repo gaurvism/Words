@@ -1,6 +1,6 @@
-# Words of the Day
+# Words of the Month
 
-Join us on the path to learn a new word everyday.
+Join us on the path to learn a new words.
 
 Just go through and learn fascinating words.
 
