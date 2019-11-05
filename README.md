@@ -274,5 +274,9 @@ Happy Learning :blush:
 - **Example**: He left me *stranded* in town with no car and no money for a bus.
 
 # Cavalcade
-- **Meaning**: a line of people, walking, on horses, or in vehicles, who are moving slowly as part of a ceremony.
-- **Example**: a *cavalcade* of antique cars.
+- **Meaning**: A line of people, walking, on horses, or in vehicles, who are moving slowly as part of a ceremony.
+- **Example**: A *cavalcade* of antique cars.
+
+# Cringeworthy 
+- **Meaning**: Causing feelings of embarrassment or awkwardness.
+- **Example**: A *cringeworthy* photo shoot of him posing on a motorbike.
