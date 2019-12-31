@@ -280,3 +280,15 @@ Happy Learning :blush:
 # Cringeworthy 
 - **Meaning**: Causing feelings of embarrassment or awkwardness.
 - **Example**: A *cringeworthy* photo shoot of him posing on a motorbike.
+
+# Levy 
+- **Meaning**: Impose (a tax, fee, or fine).
+- **Example**: Taxes should not be *levied* without the authority of Parliament.
+
+# Arbitrage 
+- **Meaning**: The act of buying and selling goods simultaneously in different markets to gain an immediate profit.
+- **Example**: The importance of computers is that *arbitrage* opportunities can be quickly spotted and capitalized upon.
+
+# Lucrative 
+- **Meaning**: Producing a great deal of profit.
+- **Example**: She advised us to look abroad for more *lucrative* business ventures.
