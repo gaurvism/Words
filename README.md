@@ -292,3 +292,7 @@ Happy Learning :blush:
 # Lucrative 
 - **Meaning**: Producing a great deal of profit.
 - **Example**: She advised us to look abroad for more *lucrative* business ventures.
+
+# Amid 
+- **Meaning**: Surrounded by; in the middle of.
+- **Example**: A senior leader cancelled a trip to Britain yesterday *amid* growing signs of a possible political crisis.
