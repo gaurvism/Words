@@ -310,3 +310,15 @@ Happy Learning :blush:
 - **Example**: He was up until the *wee hours* trying to finish his work.
 
 ## For the month of August :loudspeaker:
+
+# Succumb
+- **Meaning**: To lose the determination to oppose something; to accept defeat.
+- **Example**: The town finally *succumbed* last week after being pounded with heavy artillery for more than two months.
+
+# Cordon 
+- **Meaning**: A line of troops or of military posts enclosing an area to prevent passage.
+- **Example**: A *cordon* of police kept protesters away from the building.
+
+# Equate 
+- **Meaning**: To consider one thing to be the same as or equal to another thing.
+- **Example**: You cannot *equate* success in financial matters with greed.
