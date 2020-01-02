@@ -296,3 +296,17 @@ Happy Learning :blush:
 # Amid 
 - **Meaning**: Surrounded by; in the middle of.
 - **Example**: A senior leader cancelled a trip to Britain yesterday *amid* growing signs of a possible political crisis.
+
+# Abrogation 
+- **Meaning**: To end a law, agreement, or custom formally.
+- **Example**: The treaty was *abrogated* in 1929.
+
+# Usurp 
+- **Meaning**: To seize and hold (office, place, functions, powers, etc.) in possession by force or without right.
+- **Example**: The Congress wants to reverse the reforms and *usurp* the power of the presidency.
+
+# Wee Hours 
+- **Meaning**: The early hours of the morning, between twelve o'clock at night and the time when the sun rises.
+- **Example**: He was up until the *wee hours* trying to finish his work.
+
+## For the month of August :loudspeaker:
