@@ -322,3 +322,7 @@ Happy Learning :blush:
 # Equate 
 - **Meaning**: To consider one thing to be the same as or equal to another thing.
 - **Example**: You cannot *equate* success in financial matters with greed.
+
+# Prod 
+- **Meaning**: To push something or someone with your finger or with a pointed object.
+- **Example**: She *prodded* the cake with her fork to see if it was cooked.
