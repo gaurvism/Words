@@ -326,3 +326,11 @@ Happy Learning :blush:
 # Prod 
 - **Meaning**: To push something or someone with your finger or with a pointed object.
 - **Example**: She *prodded* the cake with her fork to see if it was cooked.
+
+# Perpetrator 
+- **Meaning**: Someone who has committed a crime or a violent or harmful act.
+- **Example**: The Trump administration decided to assassinate Soleimani due to American bases in Iraq being continuously attacked by Iranian rockets, with the administration concluding that Soleimani was the main *perpetrator*.
+
+# Superfluous 
+- **Meaning**: More than is needed, desired, or required.
+- **Example**: The unions’ demands are *superfluous*, but perhaps not surprising.
