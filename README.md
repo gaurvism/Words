@@ -334,3 +334,11 @@ Happy Learning :blush:
 # Superfluous 
 - **Meaning**: More than is needed, desired, or required.
 - **Example**: The unions’ demands are *superfluous*, but perhaps not surprising.
+
+# Impassive 
+- **Meaning**: Showing no sign of feeling or emotion.
+- **Example**: Even as the guilty verdict was read, he stared *impassively* ahead.
+
+# Incommunicado 
+- **Meaning**: Deprived of any communication with others.
+- **Example**: He was held *incommunicado* for the first 48 hours after he was arrested.
