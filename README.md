@@ -8,6 +8,8 @@ Happy Learning :blush:
 
 ## For the month of January :loudspeaker:
 
+> 4 Weeks
+
 # Faux pas
 - **Meaning**: An embarrassing or tactless act or remark in a social situation.
 - **Example**: I made some remark about his wife's family, and then realized I'd made a serious *fauxpas*.
