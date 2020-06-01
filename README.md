@@ -6,9 +6,8 @@ Join us on the path to learn new word for each week of the year.
 
 Happy Learning :blush:
 
+> Year: 2019
 ## For the month of January :loudspeaker:
-
-> 4 Weeks
 
 # Faux pas
 - **Meaning**: An embarrassing or tactless act or remark in a social situation.
@@ -26,6 +25,8 @@ Happy Learning :blush:
 - **Meaning**: Usage of a wrong or inappropriate name
 - **Example**: The name "Greenland" is a *misnomer*, since much of the island is covered by a massive ice sheet.
 
+## For the month of February :loudspeaker:
+
 # Tardiness
 - **Meaning**: It is the quality of being late, behind time or not on time.
 - **Example**: Excessive *tardiness* can also result in you getting fired.
@@ -42,6 +43,8 @@ Happy Learning :blush:
 - **Meaning**: To move back or away from a place or situation; to make somebody/something do this.
 - **Example**: Workers have threatened to *withdraw* their labour.
 
+## For the month of March :loudspeaker:
+
 # Demarcate
 - **Meaning**: To show the limits of something.
 - **Example**: Parking spaces are *demarcated* by white lines.
@@ -49,8 +52,6 @@ Happy Learning :blush:
 # Audacious
 - **Meaning**: Showing a willingness to take risks.
 - **Example**: This thrilling new series charts *audacious* prison escape attempts.
-
-## For the month of February :loudspeaker:
 
 # Underrated
 - **Meaning**: To rate or evaluate too low; underestimate.
@@ -65,6 +66,8 @@ Happy Learning :blush:
   - A piece of music that has no formal structure and expresses powerful feelings.
   - A speech or piece of writing that contains powerful feelings and enthusiasm.
 - **Example**: The mayor launched into a long *rhapsody* about his plans for the city.
+
+## For the month of April :loudspeaker:
 
 # Discreet
 - **Meaning**: Careful not to cause embarrassment or attract too much attention, especially by keeping something secret.
@@ -82,6 +85,8 @@ Happy Learning :blush:
 - **Meaning**: Badly and carelessly made.
 - **Example**: We're not paying good money for *shoddy* goods.
 
+## For the month of May :loudspeaker:
+
 # Acquit
 - **Meaning**: Free (someone) from a criminal charge by a verdict of not guilty.
 - **Example**: She was *acquitted* of all the charges against her.
@@ -94,11 +99,11 @@ Happy Learning :blush:
 - **Meaning**: An acknowledgment of your error or guilt.
 - **Example**: A newspaper might issue a *mea culpa* for printing inaccurate information.
 
-## For the month of March :loudspeaker:
-
 # Intimidate
 - **Meaning**: To make timid or frightened; scare.
 - **Example**: The terrain is massive, confusing, and *intimidating*, and almost everyone skis it with a local guide.
+
+## For the month of June :loudspeaker:
 
 # Apparent
 - **Meaning**: Clearly visible or understood; obvious.
@@ -120,6 +125,8 @@ Happy Learning :blush:
 - **Meaning**: Someone who looks spookily like you, but isn't a twin.
 - **Example**: Some lookalikes are hired to entertain at clubs and parties: they learn to sing like their *doppelgänger* so the crowd think they are getting the real thing.
 
+## For the month of July :loudspeaker:
+
 # Irrational
 - **Meaning**: Not based on logical reasons or clear thinking.
 - **Example**: It's totally *irrational*, but I'm frightened of mice.
@@ -136,7 +143,7 @@ Happy Learning :blush:
 - **Meaning**: Something of monstrous size, power, or appearance.
 - **Example**: The newest SUV is a gas-guzzling *behemoth* that doesn't even fit in a standard parking space.
 
-## For the month of April :loudspeaker:
+## For the month of August :loudspeaker:
 
 # Penultimate
 - **Meaning**: Second from the last.
@@ -153,6 +160,8 @@ Happy Learning :blush:
 # Abstain
 - **Meaning**: Restrain oneself from doing or enjoying something.
 - **Example**: A high percentage of women said they had *abstained* from alcohol during pregnancy.
+
+## For the month of September :loudspeaker:
 
 # Teetotaller
 - **Meaning**: A person who never drinks alcohol.
@@ -176,11 +185,11 @@ Happy Learning :blush:
 - **Meaning**: To keep one thing separate from another.
 - **Example**: The psychiatric section is *segregated* from the rest of the prison.
 
+## For the month of October :loudspeaker:
+
 # Extradition  
 - **Meaning**: The return of someone accused of a crime to the country where the crime was committed.
 - **Example**: He will be *extradited* to Arizona from Florida.
-
-## For the month of May :loudspeaker:
 
 # Reaffirm  
 - **Meaning**: State again strongly.
@@ -193,6 +202,8 @@ Happy Learning :blush:
 # Egregious  
 - **Meaning**: Extremely bad in a way that is very noticeable.
 - **Example**: If you make an *egregious* error during a championship soccer match, your coach might bench you for the rest of the game.
+
+## For the month of November :loudspeaker:
 
 # Hymn  
 - **Meaning**: A religious song or poem of praise to God.
@@ -212,6 +223,8 @@ Happy Learning :blush:
 - **Meaning**: If you've heard an expression a million times, chances are it's a cliche.
 - **Example**: It's a *cliche* but true that pubs are the lifeblood of many communities.
 
+## For the month of December :loudspeaker:
+
 # Niche  
 - **Meaning**: A job or position that is very suitable for someone, especially one that they like.
 - **Example**: He found his *niche* in the academic world.
@@ -224,8 +237,6 @@ Happy Learning :blush:
 - **Meaning**: Break off (a meeting, legal case, or game) with the intention of resuming it later.
 - **Example**: Court is *adjourned* until 10 a.m. tomorrow.
 
-## For the month of June :loudspeaker:
-
 # Imminent
 - **Meaning**: Likely to occur at any moment.
 - **Example**: For a man in *imminent* danger of losing his job, he appeared quite unruffled.
@@ -233,6 +244,10 @@ Happy Learning :blush:
 # Intriguing
 - **Meaning**: Arousing one's curiosity or interest; fascinating.
 - **Example**: This *intriguing* book is both thoughtful and informative.
+
+> Year: 2020
+
+## For the month of January :loudspeaker:
 
 # Inevitably
 - **Meaning**: Certain to happen and unable to be avoided or prevented.
@@ -251,6 +266,8 @@ Happy Learning :blush:
 - **Meaning**: An overwhelming feeling of great happiness or joyful excitement.
 - **Example**: they went into *ecstasies* over the view.
 
+## For the month of February :loudspeaker:
+
 # Collude
 - **Meaning**: To act together secretly or illegally in order to deceive or cheat someone.
 - **Example**: It was suspected that the police had *colluded* with the witnesses.
@@ -267,7 +284,7 @@ Happy Learning :blush:
 - **Meaning**: The effect that an action, event, or decision has on something, especially a bad effect.
 - **Example**: Any decrease in tourism could have serious *repercussions* for the local economy.
 
-## For the month of July :loudspeaker:
+## For the month of March :loudspeaker:
 
 # Stranded
 - **Meaning**: Left helpless.
@@ -289,6 +306,8 @@ Happy Learning :blush:
 - **Meaning**: The act of buying and selling goods simultaneously in different markets to gain an immediate profit.
 - **Example**: The importance of computers is that *arbitrage* opportunities can be quickly spotted and capitalized upon.
 
+## For the month of April :loudspeaker:
+
 # Lucrative 
 - **Meaning**: Producing a great deal of profit.
 - **Example**: She advised us to look abroad for more *lucrative* business ventures.
@@ -305,11 +324,11 @@ Happy Learning :blush:
 - **Meaning**: To seize and hold (office, place, functions, powers, etc.) in possession by force or without right.
 - **Example**: The Congress wants to reverse the reforms and *usurp* the power of the presidency.
 
+## For the month of May :loudspeaker:
+
 # Wee Hours 
 - **Meaning**: The early hours of the morning, between twelve o'clock at night and the time when the sun rises.
 - **Example**: He was up until the *wee hours* trying to finish his work.
-
-## For the month of August :loudspeaker:
 
 # Succumb
 - **Meaning**: To lose the determination to oppose something; to accept defeat.
@@ -326,6 +345,8 @@ Happy Learning :blush:
 # Prod 
 - **Meaning**: To push something or someone with your finger or with a pointed object.
 - **Example**: She *prodded* the cake with her fork to see if it was cooked.
+
+## For the month of June :loudspeaker:
 
 # Perpetrator 
 - **Meaning**: Someone who has committed a crime or a violent or harmful act.
