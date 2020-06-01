@@ -1,6 +1,6 @@
-# Words of the Month
+# Words of the Week
 
-Join us on the path to learn new words.
+Join us on the path to learn new word for each week of the year.
 
 [Style Guide](https://guides.github.com/features/mastering-markdown/)! :mag_right:
 
