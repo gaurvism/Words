@@ -246,7 +246,7 @@ Happy Learning :blush:
 - **Meaning**: Arousing one's curiosity or interest; fascinating.
 - **Example**: This *intriguing* book is both thoughtful and informative.
 
-:small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond: :white_small_square: :large_blue_diamond:
+<p align="center">:small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond:</p>
 
 
 > Year: 2020 :receipt:
