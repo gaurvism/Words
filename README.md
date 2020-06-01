@@ -6,7 +6,8 @@ Join us on the path to learn new word for each week of the year.
 
 Happy Learning :blush:
 
-> Year: 2019
+> #### Year: 2019 :receipt:
+
 ## For the month of January :loudspeaker:
 
 # Faux pas
@@ -245,7 +246,7 @@ Happy Learning :blush:
 - **Meaning**: Arousing one's curiosity or interest; fascinating.
 - **Example**: This *intriguing* book is both thoughtful and informative.
 
-> Year: 2020
+> Year: 2020 :receipt:
 
 ## For the month of January :loudspeaker:
 
