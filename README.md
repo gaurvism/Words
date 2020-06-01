@@ -2,9 +2,7 @@
 
 Join us on the path to learn new words.
 
-Just go through and learn fascinating words.
-
-You can also [Style Me](https://guides.github.com/features/mastering-markdown/)! :mag_right:
+[Style Guide](https://guides.github.com/features/mastering-markdown/)! :mag_right:
 
 Happy Learning :blush:
 
