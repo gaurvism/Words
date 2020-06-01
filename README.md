@@ -1,6 +1,6 @@
 # Words of the Month
 
-Join us on the path to learn a new words.
+Join us on the path to learn new words.
 
 Just go through and learn fascinating words.
 
