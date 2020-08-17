@@ -6,7 +6,7 @@ Join us on the path to learn new word for each week of the year.
 
 Happy Learning :blush:
 
-> #### Year: 2019 :receipt:
+> #### Year: 2019
 
 ## For the month of January :loudspeaker:
 
@@ -249,7 +249,7 @@ Happy Learning :blush:
 <p align="center">:small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond: :white_small_square: :large_blue_diamond: :white_small_square: :small_orange_diamond:</p>
 
 
-> Year: 2020 :receipt:
+> Year: 2020
 
 ## For the month of January :loudspeaker:
 
